@@ -1,0 +1,6 @@
+Git adalah sistem kendali versi terdistribusi, 
+yang berarti semua codebase dan riwayat kode akan tersedia di komputer setiap developer untuk memudahkan pembuatan branch dan penggabungan. 
+Git dikembangkan oleh Linus Torvalds pada tahun 2005, dan merupakan inti atau jantung GitHub.
+
+GitHub adalah layanan hos web bersama untuk proyek pengembangan perangkat lunak yang menggunakan sistem kendali versi Git dan layanan hosting internet.
+Hal ini banyak digunakan untuk kode komputer.
