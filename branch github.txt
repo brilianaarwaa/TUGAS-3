@@ -1,0 +1,4 @@
+When you create a repository with content on GitHub, GitHub creates the repository with a single branch. 
+This first branch in the repository is the default branch. The default branch is the branch that GitHub displays when anyone visits your repository. 
+The default branch is also the initial branch that Git checks out locally when someone clones the repository. 
+Unless you specify a different branch, the default branch in a repository is the base branch for new pull requests and code commits.
